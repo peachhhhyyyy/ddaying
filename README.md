@@ -1,2 +1,2 @@
-# ddaying
-ddaying project
+# ddaying 때잉
+중요한 날짜들을 기록하고, 저장, 삭제할 수 있는 데스크탑 앱입니다. 
